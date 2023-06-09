@@ -5,3 +5,9 @@ Description: TKinter GUI application that acts as a password manager (saving web
 Python Libraries: TKinter, Random, OS, JSON, Pyperclip
 
 NOTE: Application requires environmental variables (not included) in order to run properly
+
+# How to use:
+
+To record a website/email or username/password combination, fill out all the boxes and click the "Add" button. If you'd like to have a password generated, click the "Generate Password" button
+
+To pull up an email/username + website combination, click the "Search" button after filling out those 2 fields. Failure to fill out both fields with valid entries will result in error messages displaying
